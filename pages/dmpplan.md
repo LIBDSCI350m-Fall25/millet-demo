@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is my data management plan, yayayayayaay!!!  
 
-[This is a link to my metadata application profile.](/objects/group1-map)
+[This is a link to my metadata application profile.](/objects/group1_map)
 
 1. bananas
 2. apples
